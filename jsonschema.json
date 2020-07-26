@@ -1,0 +1,36 @@
+[
+  {
+    "Election": "2018 Primary",
+    "County": "Cook",
+    "Subpart": "Chicago Only",
+    "JurisdictionID": 105,
+    "JurisContainerID": 0,
+    "JurisName": "CITY OF CHICAGO",
+    "EISCandidateID": 0,
+    "CandidateName": "",
+    "EISContestID": 0,
+    "ContestName": "",
+    "PrecinctName": "Ward 01 Precinct 01",
+    "Registration": 808,
+    "EISPartyID": 0,
+    "PartyName": "",
+    "VoteCount": 261
+  },
+  {
+    "Election": "2018 Primary",
+    "County": "Cook",
+    "Subpart": "Chicago Only",
+    "JurisdictionID": 105,
+    "JurisContainerID": 0,
+    "JurisName": "CITY OF CHICAGO",
+    "EISCandidateID": 0,
+    "CandidateName": "",
+    "EISContestID": 0,
+    "ContestName": "",
+    "PrecinctName": "Ward 01 Precinct 02",
+    "Registration": 809,
+    "EISPartyID": 0,
+    "PartyName": "",
+    "VoteCount": 197
+  }
+]
